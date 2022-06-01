@@ -1,0 +1,72 @@
+@font-face {
+    font-family: miFuente;
+    src: url(../fuentes/ArabotoNormal.ttf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: miFuente2;
+    src: url(../fuentes/ArabotoBold.ttf);
+    font-weight: 800
+}
+
+@font-face {
+    font-family: miFuente3;
+    src: url(../fuentes/ArabotoLight.ttf);
+    font-weight: 300
+}
+
+
+body {
+    background-color: black;
+    font-family: miFuente;
+    background-image: url(../IMAGENES/FONDO-02.jpg);
+    background-size: 100%;
+    
+    
+}
+
+h1{ font-family: miFuente3;
+    position: relative;
+    bottom: -100px;
+    font-size:x-large;
+    font-size: 40px;
+    line-height: 1.3;
+    
+    margin: 40px;
+    width: 100px;
+    
+    
+
+}
+
+
+
+p { font-family: miFuente3;
+    position: relative;
+    bottom: -100px;
+    text-align:left;
+    text-align:justify;
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 230px;
+    margin: 40px;
+     
+}
+
+p2 {
+    font-family: miFuente3;
+    position: relative;
+    bottom: 540px;
+    right: -850px;
+    text-align:right;
+    text-align:justify;
+    font-size: 17px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    width: 300px;
+    margin: 20px;
+}
+      
+   
